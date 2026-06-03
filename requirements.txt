@@ -1,0 +1,10 @@
+torch
+torchvision
+gymnasium
+minigrid
+numpy
+matplotlib
+tqdm
+imageio
+imageio-ffmpeg
+opencv-python
